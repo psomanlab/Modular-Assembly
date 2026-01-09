@@ -1,12 +1,12 @@
-# Voxelated-Assembly
-## Welcome to the _Voxelated Assembly of Scalable and Perfusable Tissue Constructs_ repo!
+# Modular-Assembly
+## Welcome to the _Assembly of Cell-seeded 3D Printed Hydrogel Modules with Perfusable Channel Networks_ repo!
 
 
 This repository contains all the files and information needed to fabricate and customize multimaterial perfusion bioreactors, including:
 + CAD models in STEP format for:
    - [Printable bioreactor parts (all bioreactor sizes are in one STEP file)](Bioreactors)
-   - [Printed tools, such as bioreactor racks, bioreactor shims, voxel slicing jig](Tools)
-   - Hydrogel voxels
+   - [Printed tools, such as bioreactor racks, bioreactor shims, module slicing jig](Tools)
+   - Hydrogel modules
 + 3MF project files containing all printable bioreactor parts, complete with print profiles for Prusament PCCF and Recreus FilaFlex Pro 60A for the 5 Toolhead Prusa XL
 + [BOM for bioreactors, with links for sourcing](README.md#bioreactor-bom-by-size)
 + [Prusa XL modifications for printing of Shore 60A filament](README.md#prusa-xl-modifications-list)
